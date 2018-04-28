@@ -1,0 +1,5 @@
+"0","alpha.fn=function(data,index){"
+"0","  X=data$X[index]"
+"0","  Y=data$Y[index]"
+"0","  return((var(Y)-cov(X,Y))/(var(X)+var(Y)-2*cov(X,Y)))"
+"0","}"

@@ -1,0 +1,25 @@
+"0","boot(Portfolio,alpha.fn,R=1000)"
+"1","
+ORDINARY NONPARAMETRIC BOOTSTRAP
+
+"
+"1","
+Call:
+"
+"1","boot(data = Portfolio, statistic = alpha.fn, R = 1000)
+"
+"1","
+
+Bootstrap Statistics :
+"
+"1","   "
+"1","  original"
+"1","        bias  "
+"1","  std. error"
+"1","
+t1*"
+"1"," 0.5758321"
+"1"," -7.315422e-05"
+"1","  0.08861826"
+"1","
+"

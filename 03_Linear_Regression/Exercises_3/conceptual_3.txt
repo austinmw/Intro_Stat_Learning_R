@@ -1,0 +1,6 @@
+An Introduction to Statistical Learning Unofficial Solutions:
+http://blog.princehonest.com/stat-learning/
+
+My solutions:
+
+1. 

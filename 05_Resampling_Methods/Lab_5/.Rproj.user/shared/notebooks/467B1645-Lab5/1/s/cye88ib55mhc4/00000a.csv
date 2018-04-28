@@ -1,0 +1,2 @@
+"0","#?sample"
+"0","lm.fit=lm(mpg~horsepower,data=Auto,subset=train)"
